@@ -1,0 +1,6 @@
+package ex1;
+
+public class Node {
+         public String data;
+         public Node next;
+}
